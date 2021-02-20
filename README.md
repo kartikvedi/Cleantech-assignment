@@ -1,0 +1,2 @@
+# CleanTech_Assignment
+This repo contains assignment submitted to CleanTech Solar for an internship as Data Analyst. The problem statement is given in "Problem statement.pdf" .It contains the raw data which is needed to be processed and converted to the sample data provided by them. Raw folder has the raw unprocessed data collected from solar panel sensors. Gen1 folder has sample output to be produced for illustration. mydata folder contains the processed final output data produced by running the script in cleantech_to_submit.ipynb. 
